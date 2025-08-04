@@ -1,4 +1,5 @@
-Starred GitHub Repo Analysis/n
+Starred GitHub Repo Analysis
+
 Ever wonder what patterns lie within your GitHub stars? This project is a simple but powerful tool to automatically fetch and analyze your starred repositories, revealing your core interests and tech focus through clustering.
 
 Turn a long list of repositories into a clear, high-level overview of your development habits.
