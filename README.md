@@ -24,7 +24,7 @@ Step 1: Gather Your Data
 
 First, run the data collection script to fetch your starred repos. It will prompt you for your GitHub username and PAT.
 
-python github_starred_repos.py
+python github_star_analysis.py
 
 This will create a YOUR_USERNAME_starred_repos.json file in your directory.
 
