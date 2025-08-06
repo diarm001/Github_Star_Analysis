@@ -32,7 +32,7 @@ Step 2: Analyze and Cluster
 
 Next, run the analysis script. It will read your JSON file, perform the clustering, and output the results to a text file.
 
-python github_cluster_repos.py
+python github_star_cluster.py
 
 The script will ask you how many clusters you'd like to create (e.g., 5-10). The final output will be saved to clustering_analysis_YOUR_USERNAME.txt.
 
